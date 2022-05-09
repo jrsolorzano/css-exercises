@@ -1,0 +1,18 @@
+.title {
+    background-color: #eb8a8a;
+}
+
+.cooltitle {
+    font-size: 24px;
+}
+
+#bluetitle {
+    color: blue;
+    font-size: 36px;
+}
+
+#greentitle {
+    background-color: rgb(83, 204, 27);
+    font-size: 24px;
+    font-weight: bold;
+}
